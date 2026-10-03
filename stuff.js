@@ -42,3 +42,6 @@ function elder(start, battles, matches){ // 10/3/26
 }
 
 
+function addition(a,b){
+    return a +b;
+}
